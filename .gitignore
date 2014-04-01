@@ -9,12 +9,15 @@ npm-debug.log
 #VIM
 *.swp
 
-#PhpStore
+#PhpStorm
 *.idea/*
 
 #SublimeText
 *.sublime-workspace
 *.sublime-project
+
+#SASS
+*.sass-cache
 
 #compiled assets
 /build-reports
