@@ -3,7 +3,7 @@ module.exports = {
         unixNewlines: true,
         files: [{
             src: ['scss/*.scss'],
-            dest: '../www/css/screen.css',
+            dest: '../www/assets/css/screen.css',
             ext: '.css'
         }]
     }
